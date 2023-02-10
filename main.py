@@ -16,3 +16,13 @@ for i in range(len(sides)):
                     smax = s
 
 print("Максимальная площадь треугольника", smax)
+
+
+
+
+
+
+
+
+
+rette
