@@ -18,7 +18,7 @@ for i in range(len(sides)):
 print("Максимальная площадь треугольника", smax)
 
 
-
+привет
 
 
 
