@@ -1,15 +1,12 @@
 firstValue = input("Введите первый коэффициент: ")
-print("a:", int(firstValue))
+print("a:", firstValue)
 
 secondValue = input("Введите второй коэффициент: ")
-print("b:", int(secondValue))
+print("b:", secondValue)
 
 thirdValue = input("Введите третий коэффициент: ")
-print("c:", int(thirdValue))
+print("c:", thirdValue)
 
-sum = int(firstValue) + int(secondValue) * int(thirdValue)
+disk = int(secondValue) ** 2 - 4 * int(firstValue) * int(thirdValue)
 
-print(sum)
-
-# сколько лет сколько зим как дела?
-# и хуй здесь с капустой мы ее спустим на люкс и безумство то густо то пусто
+print(disk)
